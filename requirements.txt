@@ -1,0 +1,4 @@
+PyMuPDF>=1.23.0
+# Optional OCR fallback:
+# pytesseract>=0.3.10
+# Pillow>=10.0.0

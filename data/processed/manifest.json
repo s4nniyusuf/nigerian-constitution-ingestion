@@ -1,0 +1,18 @@
+{
+  "document_id": "constitution-of-the-federal-republic-of-nigeria-2023",
+  "source_file": "Constitution-of-the-Federal-Republic-of-Nigeria-2023.pdf",
+  "sha256": "865b96fd3746d934485ec771d7c7a4958da8eee8c0dcab2488276d8bbc0dfef7",
+  "pdf_page_count": 280,
+  "ingestion_start_physical_page": 23,
+  "ingestion_start_pymupdf_index": 22,
+  "pages_processed": 258,
+  "pages_with_native_text": 256,
+  "pages_using_ocr": 0,
+  "pages_for_review": 2,
+  "legal_records": 328,
+  "preamble_records": 1,
+  "section_records": 320,
+  "schedule_records": 7,
+  "chunking": false,
+  "pipeline_version": "0.3.0"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "physical_page": 278,
+    "pymupdf_page_index": 277,
+    "char_count": 0,
+    "needs_review": true,
+    "extraction_method": "native_text",
+    "ocr_error": null
+  },
+  {
+    "physical_page": 279,
+    "pymupdf_page_index": 278,
+    "char_count": 0,
+    "needs_review": true,
+    "extraction_method": "native_text",
+    "ocr_error": null
+  }
+]
